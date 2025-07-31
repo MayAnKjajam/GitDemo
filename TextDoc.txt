@@ -1,2 +1,1 @@
-My First Repo
-Changes made on git 
+My First Repo.
